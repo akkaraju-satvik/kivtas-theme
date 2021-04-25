@@ -1,2 +1,6 @@
-# kivtas-theme
-A Custom Theme for Visual Studio Code
+**kivtaS Theme**
+
+_A Custom Theme made with handpicked colors._
+
+![](images/kivtaS-Theme.gif)
+
