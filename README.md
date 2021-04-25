@@ -1,4 +1,4 @@
-**kivtaS Theme**
+# kivtaS Theme
 
 _A Custom Theme made with handpicked colors._
 
