@@ -17,5 +17,6 @@
                 "path": "./themes/kivtaS Theme-color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "images/Logo.png"
 }
