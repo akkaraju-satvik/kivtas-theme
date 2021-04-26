@@ -18,5 +18,9 @@
             }
         ]
     },
-    "icon": "images/Logo.png"
+    "icon": "images/Logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/akkaraju-satvik/kivtas-theme.git"
+    }
 }
