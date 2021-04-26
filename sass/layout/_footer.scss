@@ -1,0 +1,18 @@
+hr {
+    height: 0.3rem;
+    background-color: rgba($color-editor-background, 0.4);
+    border: 0;
+}
+
+.footer {
+    position: relative;
+    height: 9vh;
+
+    &__copyright {
+        font-size: 1rem;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+}

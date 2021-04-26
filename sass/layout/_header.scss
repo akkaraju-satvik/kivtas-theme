@@ -1,0 +1,27 @@
+.header {
+    position: relative;
+    height: 30vh;
+
+    &__logo{
+        &-box {
+            position: absolute;
+            top: 50%;
+            left: 45%;
+            transform: translate(-50%,-50%);
+        }
+        width: 50%;
+    }
+
+    &__textBox {
+        position: absolute;
+        top: 50%;
+        left: 55%;
+        transform: translate(-60%,-50%);
+    }
+
+    &__downloadLink {
+        position: absolute;
+        top: 75%;
+        left: 49%;
+    }
+}

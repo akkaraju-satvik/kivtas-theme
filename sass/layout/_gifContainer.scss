@@ -1,0 +1,12 @@
+.gif-container {
+    height: 60vh;
+    position: relative;
+
+    &__gif {
+        position: absolute;
+        width: 40%;
+        top: 50%;
+        left: 51%;
+        transform: translate(-50%,-50%);
+    }
+}

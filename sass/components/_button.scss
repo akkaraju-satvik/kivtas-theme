@@ -1,0 +1,14 @@
+.button {
+    padding: 0.5rem 2rem;
+    text-decoration: none;
+
+    &:link, &:visited {
+        font-size: 0.9rem;
+        color: #fff;
+        background-color: #107c10;
+    }
+
+    &:hover {
+        background: #0d540d;
+    }
+}
