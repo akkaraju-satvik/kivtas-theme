@@ -23,6 +23,7 @@
             }
         ]
     },
+    "publisher": "akkaraju-satvik",
     "icon": "images/Logo.png",
     "repository": {
         "type": "git",
