@@ -2,7 +2,7 @@
     "name": "kivtas-theme",
     "displayName": "kivtaS Theme",
     "description": "A Vibrant Bluish Dark Theme",
-    "version": "0.0.1",
+    "version": "3.0.1",
     "engines": {
         "vscode": "^1.55.0"
     },
@@ -12,9 +12,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "kivtaS Theme",
+                "label": "kivtaS Theme Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/kivtaS Theme-color-theme.json"
+            },
+            {
+                "label": "kivtaS Theme Light",
+                "uiTheme": "vs",
+                "path": "./themes/kivtaS Theme-light.json"
             }
         ]
     },
