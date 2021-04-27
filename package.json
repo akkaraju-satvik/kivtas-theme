@@ -2,7 +2,7 @@
     "name": "kivtas-theme",
     "displayName": "kivtaS Theme",
     "description": "A Vibrant Bluish Dark Theme",
-    "version": "0.0.1",
+    "version": "3.0.0",
     "engines": {
         "vscode": "^1.55.0"
     },
@@ -30,7 +30,7 @@
         "url": "https://github.com/akkaraju-satvik/kivtas-theme.git"
     },
     "scripts": {
-        "compile:sass" : "node-sass ./sass/main.scss ./css/style.css -w"
+        "compile:sass": "node-sass ./sass/main.scss ./css/style.css -w"
     },
     "devDependencies": {
         "node-sass": "^5.0.0"
