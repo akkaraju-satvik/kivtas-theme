@@ -128,7 +128,7 @@ hr {
       top: 38%;
       width: 90%; } }
 
-@media (min-width: 530px) {
+@media (min-width: 520px) {
   .header {
     height: 40vh; }
     .header__logo-box {
@@ -137,7 +137,7 @@ hr {
     .header__textBox {
       left: 57%; }
     .header__downloadLink {
-      left: 38%; }
+      left: 40%; }
   .headingPrimary {
     width: max-content;
     text-align: center; }
