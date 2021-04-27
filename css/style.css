@@ -20,7 +20,6 @@ body {
     text-align: center; }
 
 .gif-container__heading {
-  font-family: "Roboto", sans-serif;
   position: absolute;
   left: 52%;
   transform: translateX(-50%);
@@ -82,3 +81,195 @@ hr {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%); }
+
+@media (min-width: 320px) {
+  .header {
+    height: 40vh; }
+    .header__logo-box {
+      top: 20%;
+      left: 60%; }
+    .header__textBox {
+      left: 57%; }
+    .header__downloadLink {
+      left: 29%; }
+  .headingPrimary {
+    width: max-content;
+    text-align: center; }
+  .gif-container {
+    height: 50vh; }
+    .gif-container__heading {
+      top: 1%;
+      width: fit-content;
+      font-size: 1rem; }
+    .gif-container__gif {
+      top: 35%;
+      width: 90%; } }
+
+@media (min-width: 425px) {
+  .header {
+    height: 40vh; }
+    .header__logo-box {
+      top: 20%;
+      left: 60%; }
+    .header__textBox {
+      left: 57%; }
+    .header__downloadLink {
+      left: 35%; }
+  .headingPrimary {
+    width: max-content;
+    text-align: center; }
+  .gif-container {
+    height: 50vh; }
+    .gif-container__heading {
+      top: 1%;
+      width: fit-content;
+      font-size: 1rem; }
+    .gif-container__gif {
+      top: 35%;
+      width: 90%; } }
+
+@media (min-width: 768px) {
+  .header {
+    height: 30vh; }
+    .header__logo {
+      width: 40%; }
+      .header__logo-box {
+        top: 40%;
+        left: 40%; }
+    .header__textBox {
+      top: 40%;
+      left: 58%; }
+    .header__downloadLink {
+      top: 70%;
+      left: 45%; }
+  .headingPrimary {
+    width: max-content;
+    text-align: center; }
+    .headingPrimary--main {
+      font-size: 2.2rem; }
+  .gif-container {
+    height: 60vh; }
+    .gif-container__heading {
+      width: fit-content;
+      font-size: 1.2rem; }
+    .gif-container__gif {
+      top: 50%;
+      width: 90%; } }
+
+@media (min-width: 1024px) {
+  .header {
+    height: 30vh; }
+    .header__logo {
+      width: 40%; }
+      .header__logo-box {
+        top: 40%;
+        left: 43%; }
+    .header__textBox {
+      top: 40%;
+      left: 58%; }
+    .header__downloadLink {
+      top: 70%;
+      left: 49%; }
+  .headingPrimary {
+    width: max-content;
+    text-align: center; }
+    .headingPrimary--main {
+      font-size: 2.2rem; }
+  .gif-container {
+    height: 60vh; }
+    .gif-container__heading {
+      width: fit-content;
+      font-size: 1.2rem; }
+    .gif-container__gif {
+      top: 50%;
+      width: 60%; } }
+
+@media (min-width: 1440px) {
+  .header {
+    height: 30vh; }
+    .header__logo {
+      width: 40%; }
+      .header__logo-box {
+        top: 40%;
+        left: 45%; }
+    .header__textBox {
+      top: 40%;
+      left: 55%; }
+    .header__downloadLink {
+      top: 70%;
+      left: 48%; }
+  .headingPrimary {
+    width: max-content;
+    text-align: center; }
+    .headingPrimary--main {
+      font-size: 2.2rem; }
+  .gif-container {
+    height: 60vh; }
+    .gif-container__heading {
+      width: fit-content;
+      font-size: 1.2rem; }
+    .gif-container__gif {
+      top: 50%;
+      width: 50%; } }
+
+@media (min-width: 1800px) {
+  .header {
+    height: 30vh; }
+    .header__logo {
+      width: 40%; }
+      .header__logo-box {
+        top: 40%;
+        left: 47%; }
+    .header__textBox {
+      top: 40%;
+      left: 55%; }
+    .header__downloadLink {
+      top: 70%;
+      left: 50%; }
+  .headingPrimary {
+    width: max-content;
+    text-align: center; }
+    .headingPrimary--main {
+      font-size: 2.2rem; }
+  .gif-container {
+    height: 60vh; }
+    .gif-container__heading {
+      left: 51%;
+      width: fit-content;
+      font-size: 1.2rem; }
+    .gif-container__gif {
+      top: 50%;
+      width: 40%; } }
+
+@media (min-width: 2560px) {
+  .header {
+    height: 30vh; }
+    .header__logo {
+      width: 40%; }
+      .header__logo-box {
+        top: 40%;
+        left: 47%; }
+    .header__textBox {
+      top: 40%;
+      left: 55%; }
+    .header__downloadLink {
+      top: 70%;
+      left: 51%; }
+  .button {
+    font-size: 1rem; }
+  .headingPrimary {
+    width: max-content;
+    text-align: center; }
+    .headingPrimary--main {
+      font-size: 3rem; }
+    .headingPrimary--sub {
+      font-size: 1.2rem; }
+  .gif-container {
+    height: 60vh; }
+    .gif-container__heading {
+      left: 52%;
+      width: fit-content;
+      font-size: 1.5rem; }
+    .gif-container__gif {
+      top: 50%;
+      width: 40%; } }

@@ -1,0 +1,314 @@
+@media (min-width: 320px) {
+    .header {
+        height: 40vh;
+
+        &__logo {
+            &-box {
+                top: 20%;
+                left: 60%;
+            }
+        }
+
+        &__textBox {
+            left: 57%;
+        }
+
+        &__downloadLink {
+            left: 29%;
+        }
+    }
+
+    .headingPrimary {
+        width: max-content;
+        text-align: center;
+    }
+
+    .gif-container {
+        &__heading {
+            top: 1%;
+            width: fit-content;
+            font-size: 1rem;
+        }
+
+        &__gif {
+            top: 35%;
+            width: 90%;
+        }
+        height: 50vh;
+    }
+}
+
+@media (min-width: 425px) {
+    .header {
+        height: 40vh;
+
+        &__logo {
+            &-box {
+                top: 20%;
+                left: 60%;
+            }
+        }
+
+        &__textBox {
+            left: 57%;
+        }
+
+        &__downloadLink {
+            left: 35%;
+        }
+    }
+
+    .headingPrimary {
+        width: max-content;
+        text-align: center;
+    }
+
+    .gif-container {
+        &__heading {
+            top: 1%;
+            width: fit-content;
+            font-size: 1rem;
+        }
+
+        &__gif {
+            top: 35%;
+            width: 90%;
+        }
+        height: 50vh;
+    }
+}
+
+@media (min-width: 768px) {
+    .header {
+        height: 30vh;
+        
+        &__logo {
+            &-box {
+                top: 40%;
+                left: 40%;
+            }
+            width: 40%;
+        }
+
+        &__textBox {
+            top: 40%;
+            left: 58%;
+        }
+
+        &__downloadLink {
+            top: 70%;
+            left: 45%;
+        }
+    }
+
+    .headingPrimary {
+        width: max-content;
+        text-align: center;
+        &--main {
+            font-size: 2.2rem;
+        }
+    }
+
+    .gif-container {
+        height: 60vh;
+        &__heading {
+            width: fit-content;
+            font-size: 1.2rem;
+        }
+
+        &__gif {
+            top: 50%;
+            width: 90%;
+        }
+    }
+}
+
+@media (min-width: 1024px) {
+    .header {
+        height: 30vh;
+        
+        &__logo {
+            &-box {
+                top: 40%;
+                left: 43%;
+            }
+            width: 40%;
+        }
+
+        &__textBox {
+            top: 40%;
+            left: 58%;
+        }
+
+        &__downloadLink {
+            top: 70%;
+            left: 49%;
+        }
+    }
+
+    .headingPrimary {
+        width: max-content;
+        text-align: center;
+        &--main {
+            font-size: 2.2rem;
+        }
+    }
+
+    .gif-container {
+        height: 60vh;
+        &__heading {
+            width: fit-content;
+            font-size: 1.2rem;
+        }
+
+        &__gif {
+            top: 50%;
+            width: 60%;
+        }
+    }
+}
+
+@media (min-width: 1440px) {
+    .header {
+        height: 30vh;
+        
+        &__logo {
+            &-box {
+                top: 40%;
+                left: 45%;
+            }
+            width: 40%;
+        }
+
+        &__textBox {
+            top: 40%;
+            left: 55%;
+        }
+
+        &__downloadLink {
+            top: 70%;
+            left: 48%;
+        }
+    }
+
+    .headingPrimary {
+        width: max-content;
+        text-align: center;
+        &--main {
+            font-size: 2.2rem;
+        }
+    }
+
+    .gif-container {
+        height: 60vh;
+        &__heading {
+            width: fit-content;
+            font-size: 1.2rem;
+        }
+
+        &__gif {
+            top: 50%;
+            width: 50%;
+        }
+    }
+}
+
+@media (min-width: 1800px) {
+    .header {
+        height: 30vh;
+        
+        &__logo {
+            &-box {
+                top: 40%;
+                left: 47%;
+            }
+            width: 40%;
+        }
+
+        &__textBox {
+            top: 40%;
+            left: 55%;
+        }
+
+        &__downloadLink {
+            top: 70%;
+            left: 50%;
+        }
+    }
+
+    .headingPrimary {
+        width: max-content;
+        text-align: center;
+        &--main {
+            font-size: 2.2rem;
+        }
+    }
+
+    .gif-container {
+        height: 60vh;
+        &__heading {
+            left: 51%;
+            width: fit-content;
+            font-size: 1.2rem;
+        }
+
+        &__gif {
+            top: 50%;
+            width: 40%;
+        }
+    }
+}
+
+@media (min-width: 2560px) {
+    .header {
+        height: 30vh;
+        
+        &__logo {
+            &-box {
+                top: 40%;
+                left: 47%;
+            }
+            width: 40%;
+        }
+
+        &__textBox {
+            top: 40%;
+            left: 55%;
+        }
+
+        &__downloadLink {
+            top: 70%;
+            left: 51%;
+        }
+    }
+
+    .button {
+        font-size: 1rem;
+    }
+
+    .headingPrimary {
+        width: max-content;
+        text-align: center;
+        &--main {
+            font-size: 3rem;
+        }
+
+        &--sub {
+            font-size: 1.2rem;
+        }
+    }
+
+    .gif-container {
+        height: 60vh;
+        &__heading {
+            left: 52%;
+            width: fit-content;
+            font-size: 1.5rem;
+        }
+
+        &__gif {
+            top: 50%;
+            width: 40%;
+        }
+    }
+}
