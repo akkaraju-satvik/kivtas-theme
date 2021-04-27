@@ -2,7 +2,7 @@
     "name": "kivtas-theme",
     "displayName": "kivtaS Theme",
     "description": "A Vibrant Bluish Dark Theme",
-    "version": "3.0.0",
+    "version": "3.0.1",
     "engines": {
         "vscode": "^1.55.0"
     },
