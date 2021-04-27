@@ -12,9 +12,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "kivtaS Theme",
+                "label": "kivtaS Theme Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/kivtaS Theme-color-theme.json"
+            },
+            {
+                "label": "kivtaS Theme Light",
+                "uiTheme": "vs",
+                "path": "./themes/kivtaS-Theme-light-color-theme.json"
             }
         ]
     },
