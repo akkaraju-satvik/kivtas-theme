@@ -78,6 +78,46 @@
     }
 }
 
+@media (min-width: 530px) {
+    .header {
+        height: 40vh;
+
+        &__logo {
+            &-box {
+                top: 20%;
+                left: 60%;
+            }
+        }
+
+        &__textBox {
+            left: 57%;
+        }
+
+        &__downloadLink {
+            left: 38%;
+        }
+    }
+
+    .headingPrimary {
+        width: max-content;
+        text-align: center;
+    }
+
+    .gif-container {
+        &__heading {
+            top: 1%;
+            width: fit-content;
+            font-size: 1rem;
+        }
+
+        &__gif {
+            top: 43%;
+            width: 90%;
+        }
+        height: 50vh;
+    }
+}
+
 @media (min-width: 768px) {
     .header {
         height: 30vh;

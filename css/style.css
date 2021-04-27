@@ -128,6 +128,29 @@ hr {
       top: 38%;
       width: 90%; } }
 
+@media (min-width: 530px) {
+  .header {
+    height: 40vh; }
+    .header__logo-box {
+      top: 20%;
+      left: 60%; }
+    .header__textBox {
+      left: 57%; }
+    .header__downloadLink {
+      left: 38%; }
+  .headingPrimary {
+    width: max-content;
+    text-align: center; }
+  .gif-container {
+    height: 50vh; }
+    .gif-container__heading {
+      top: 1%;
+      width: fit-content;
+      font-size: 1rem; }
+    .gif-container__gif {
+      top: 43%;
+      width: 90%; } }
+
 @media (min-width: 768px) {
   .header {
     height: 30vh; }
