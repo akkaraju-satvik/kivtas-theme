@@ -18,13 +18,14 @@
             }
         ]
     },
+    "publisher": "akkaraju-satvik",
     "icon": "images/Logo.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/akkaraju-satvik/kivtas-theme.git"
     },
     "scripts": {
-        "compile:sass" : "node-sass ./sass/main.scss ./css/style.css -w"
+        "compile:sass": "node-sass ./sass/main.scss ./css/style.css -w"
     },
     "devDependencies": {
         "node-sass": "^5.0.0"
