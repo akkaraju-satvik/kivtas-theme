@@ -72,7 +72,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#00FF00"
+				"foreground": "#00fce3"
 			}
 		},
 		{
@@ -82,7 +82,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#000099FF"
+				"foreground": "#1d1dff"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#ac233a"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#008800"
+				"foreground": "#4cb54c"
 			}
 		},
 		{
@@ -363,7 +363,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#19aae4"
 			}
 		},
 		{
@@ -383,6 +383,7 @@
 				"*uri*"
 			],
 			"settings": {
+				"foreground": "#bababa",
 				"fontStyle": "underline"
 			}
 		},
@@ -615,7 +616,7 @@
 				"constant.other.reference.link.markdown"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#8e8e8e"
 			}
 		},
 		{
